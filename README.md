@@ -6,8 +6,9 @@ Focused on Blue Team, networking fundamentals, and security monitoring
 ---
 
 ## 🛠️ Skills & Tools
-- Networking fundamentals (TCP/IP, LAN, routing, switching)
 - Cisco Packet Tracer
+- Networking fundamentals (TCP/IP, LAN, routing, switching)
+- TryHackMe, HackTheBox, VMs
 - Windows Server + Linux (basic)
 - Git & GitHub
 - ICMP and basic traffic analysis
