@@ -26,7 +26,8 @@ I value consistency, discipline, and long-term growth while balancing work, stud
 - I value building a stable future and meaningful relationships
 
 ## Hobbies
-- Working out / gym
+- Gym
+- Reading manga and watching 2000s anime
 - Traveling
 - Listening to music
 
