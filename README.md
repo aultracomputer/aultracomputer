@@ -1,5 +1,4 @@
-## 👋 Hi, I'm Clara
-
+## 👋 Hi
 Cybersecurity student | Aspiring SOC Analyst  
 Focused on Blue Team, networking fundamentals, and security monitoring
 
