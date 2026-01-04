@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hi, I'm Clara
 
-<!--
-**aultracomputer/aultracomputer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student | Aspiring SOC Analyst  
+Focused on Blue Team, networking fundamentals, and security monitoring
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Networking fundamentals (TCP/IP, LAN, routing, switching)
+- Cisco Packet Tracer
+- Linux (basic)
+- Git & GitHub
+- ICMP and basic traffic analysis
+- VsCode (HTML, CSS, JavaScript)
+
+---
+
+## 📚 Currently Learning
+- SIEM fundamentals
+- Log analysis
+- Network security concepts
+- SOC workflows and incident basics
+
+---
+
+## 🌱 About Me
+I enjoy learning by building things and understanding how systems communicate and fail.  
+I value consistency, discipline, and long-term growth while balancing work, studies, and personal development.
+
+---
+
+## ✨ Fun Facts
+- I have two cats 
+- I enjoy cooking and trying new recipes 
+- I value building a stable future and meaningful relationships
+
+---
+
+## Hobbies
+- Working out / gym
+- Traveling
+- Listening to music
+
+Feel free to connect with me on LinkedIn.
