@@ -15,26 +15,14 @@ Focused on Blue Team, networking fundamentals, and security monitoring
 
 ---
 
-## 📚 Currently Learning
-- SIEM fundamentals
-- Log analysis
-- Network security concepts
-- SOC workflows and incident basics
-
----
-
 ## 🌱 About Me
 I enjoy learning by building things and understanding how systems communicate and fail.  
 I value consistency, discipline, and long-term growth while balancing work, studies, and personal development.
-
----
 
 ## ✨ Fun Facts
 - I have two cats 
 - I enjoy cooking and trying new recipes 
 - I value building a stable future and meaningful relationships
-
----
 
 ## Hobbies
 - Working out / gym
