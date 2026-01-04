@@ -8,7 +8,7 @@ Focused on Blue Team, networking fundamentals, and security monitoring
 ## 🛠️ Skills & Tools
 - Networking fundamentals (TCP/IP, LAN, routing, switching)
 - Cisco Packet Tracer
-- Linux (basic)
+- Windows Server + Linux (basic)
 - Git & GitHub
 - ICMP and basic traffic analysis
 - VsCode (HTML, CSS, JavaScript)
